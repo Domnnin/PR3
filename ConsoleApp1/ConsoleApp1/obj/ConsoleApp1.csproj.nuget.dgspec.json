@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isa20\\source\\repos\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\isa20\\Source\\Repos\\PR3\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isa20\\source\\repos\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\isa20\\Source\\Repos\\PR3\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isa20\\source\\repos\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\isa20\\Source\\Repos\\PR3\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\isa20\\source\\repos\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\isa20\\Source\\Repos\\PR3\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\isa20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isa20\\source\\repos\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\isa20\\Source\\Repos\\PR3\\ZXCZXC\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isa20\\AppData\\Roaming\\NuGet\\NuGet.Config",
